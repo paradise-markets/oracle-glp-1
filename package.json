@@ -1,5 +1,5 @@
 {
-  "name": "oracle",
+  "name": "oracle-glp-1",
   "version": "1.0.50",
   "scripts": {
     "dev": "bun run --watch src/index.ts",
